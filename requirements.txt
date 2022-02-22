@@ -1,0 +1,5 @@
+-U scikit-learn
+numpy
+pandas
+matplotlib
+streamlit
